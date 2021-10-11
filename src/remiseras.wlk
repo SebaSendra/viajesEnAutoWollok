@@ -1,4 +1,0 @@
-/*
- * definir remiseras y clientes.
- */
-
